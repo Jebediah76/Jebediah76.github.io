@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TC Großalmerode</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on TC Großalmerode</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 02 Apr 2025 09:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jugend</title>
+      <link>http://localhost:1313/tags/jugend/</link>
+      <pubDate>Wed, 02 Apr 2025 09:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/jugend/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Training</title>
+      <link>http://localhost:1313/tags/training/</link>
+      <pubDate>Wed, 02 Apr 2025 09:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/training/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saisoneröffnung</title>
+      <link>http://localhost:1313/tags/saisoner%C3%B6ffnung/</link>
+      <pubDate>Tue, 01 Apr 2025 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/saisoner%C3%B6ffnung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Veranstaltungen</title>
+      <link>http://localhost:1313/tags/veranstaltungen/</link>
+      <pubDate>Tue, 01 Apr 2025 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/veranstaltungen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastruktur</title>
+      <link>http://localhost:1313/tags/infrastruktur/</link>
+      <pubDate>Tue, 25 Mar 2025 16:45:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/infrastruktur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platzpflege</title>
+      <link>http://localhost:1313/tags/platzpflege/</link>
+      <pubDate>Tue, 25 Mar 2025 16:45:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/platzpflege/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Erfolge</title>
+      <link>http://localhost:1313/tags/erfolge/</link>
+      <pubDate>Sat, 15 Mar 2025 14:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/erfolge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mannschaften</title>
+      <link>http://localhost:1313/tags/mannschaften/</link>
+      <pubDate>Sat, 15 Mar 2025 14:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/mannschaften/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wettkampf</title>
+      <link>http://localhost:1313/tags/wettkampf/</link>
+      <pubDate>Sat, 15 Mar 2025 14:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/wettkampf/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
